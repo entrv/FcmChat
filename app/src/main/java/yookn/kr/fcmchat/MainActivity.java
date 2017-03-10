@@ -17,7 +17,7 @@ import com.google.firebase.iid.FirebaseInstanceId;
 public class MainActivity extends AppCompatActivity {
     private final static int PLAY_SERVICES_RESOLUTION_REQUEST = 9000;
 
-    String SENDER_ID = "366089903593";
+    String SENDER_ID = "YOUR_SENDER_ID";
 
 
     static final String TAG = "L2C";
