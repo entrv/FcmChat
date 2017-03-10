@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "366089903593",
+    "firebase_url": "https://gcmandroidchat-161008.firebaseio.com",
+    "project_id": "gcmandroidchat-161008",
+    "storage_bucket": "gcmandroidchat-161008.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366089903593:android:a470a5f32581fe81",
+        "android_client_info": {
+          "package_name": "yookn.kr.fcmchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366089903593-s2hourn64la3dum04l1sgv4pvsgj4jgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe2M7zxHb1RvyrztXTSWuyhXFotids8vo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
