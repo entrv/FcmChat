@@ -118,7 +118,7 @@ public class ChatActivity extends Activity {
             params.add(new BasicNameValuePair("fromn", prefs.getString("FROM_NAME","")));
             params.add(new BasicNameValuePair("to", bundle.getString("mobno")));
             params.add((new BasicNameValuePair("msg",chat_msg.getText().toString())));
-
+//http://10.0.2.2:8080 이것도 되고 http://10.0.0.1:8080 도 된다.
             JSONObject jObj = json.getJSONFromUrl("http://10.0.2.2:8080/send",params);
             return jObj;
 
